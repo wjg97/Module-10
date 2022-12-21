@@ -55,7 +55,8 @@
     THEN I exit the application, and the HTML is generated
 
   ## Screenshot
-  undefined
+  ![Screenshot 2022-12-20 at 21 16 50](https://user-images.githubusercontent.com/113846649/208820279-76a6572d-5366-4e9e-a93a-3bc9e3616251.png)
+
 
   ## Questions
   Contact me<br />
